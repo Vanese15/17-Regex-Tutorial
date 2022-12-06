@@ -24,6 +24,14 @@ Regex or regexp is shorthand for regular expression is described as a sequence o
   - [Author](#author)
 
 ## Regex Components
+Components of regex are comprised of the following:
+Single characters (letters & numbers)
+Wild card (.)
+Brackets expressions (characters in brackets)
+Control characters (\ before character)
+Escape character (special sequences with characters)
+Anchors(^, $,\)
+Recursive expansion (expression in ())
 
 ### Anchors
 
