@@ -19,8 +19,6 @@ Regex or regexp is shorthand for regular expression is described as a sequence o
     - [Bracket Expressions](#bracket-expressions)
     - [Character Classes](#character-classes)
     - [The OR Operator](#the-or-operator)
-    - [Flags](#flags)
-    - [Character Escapes](#character-escapes)
   - [Author](#author)
 
 ## Regex Components
@@ -34,21 +32,26 @@ Anchors(^, $,\)
 Recursive expansion (expression in ())
 
 ### Anchors
-
+^ is used at the beginning of a string
+$ is used at the end of a string
+\ when the preceding or following character is not a word character
 ### Quantifiers
-
+Quantifiers are used to create unlimited, limited or specific matches (*, +, ?, {})
 ### Grouping Constructs
 
 ### Bracket Expressions
-
+Bracket Expressions are a list of characters between brackets.  The match with any charcters within the brackets.
 ### Character Classes
-
+Character Classes are characters bewteen square brackets, matching a specific character
 ### The OR Operator
-
-### Flags
-
-### Character Escapes
-
+OR Operator is used for logic to determine if either statement is true.
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My work history started with finance.  
+To be honest, never in a million years would I have thought I'd end up in the tech field.  
+Although, at a young age, I was fascinated with knowing how things worked. 
+I completed a program and acquired a wide range of technical skills.  I currently work with a 
+level 2 support team and I've had an interest in learning C++.  I enrolled in a 
+Full Stack Developer bootcamp because I ultimately want to work as a Front End Developer.
+
+Github: https://github.com/Vanese15
